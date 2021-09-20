@@ -18,14 +18,15 @@ Hypothesis = intervention + response metric (see [Experimentation 101)](https://
 Test variations, control, and data haircuts. 
 
 ## Success Measurement
-Key metrics and KPIs we will measure 
+Which metrics and KPIs are we measuring? 
 
 - [ ] RAM
-- [ ] Churn Reduction
+- [ ] Churn reduction
 - [ ] Reactivations
-- [ ] Adoption / Action
-- [ ] Email Engagement (Opens + CTRs)
-- [ ] Admin Engagement
+- [ ] Adoption / action
+- [ ] Email engagement (opens + CTRs)
+- [ ] Product/admin engagement
+- [ ] Qualitative learnings
 
 ## Risks / Tripwires
 Identify and address any risks associated with running this experiment
